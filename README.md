@@ -1,6 +1,6 @@
 # AnalyticsModel
 
-In this you will find some of the answers raised in the following blog.
+In this project you will find some of the answers raised in the following blog.
 
 What I have done is to start from the view created in the blog, I have added the entities that allow to give answers to the author's questions.
 
